@@ -1,5 +1,7 @@
 
 <img width="640" height="394" alt="Handbuch SD Oled Suite_html_462d3f" src="https://github.com/user-attachments/assets/1c5f4133-326e-4443-870b-6451d51c6fa6" />
+
+<img width="1020" height="768" alt="IMG_20260608_212826-low" src="https://github.com/user-attachments/assets/208d6912-be0a-4849-bcaf-82f313c1040e" />
 # SD-OLED-SUITE
 A high-performance graphic asset pipeline and runtime library for LGT8F328/Arduino / AVR microcontrollers.
 
